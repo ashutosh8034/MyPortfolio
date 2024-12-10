@@ -143,6 +143,11 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 
+.tab-contents ul li ul li {
+    list-style-type: disc;
+    padding-left: 0px;
+}
+
 .tab-contents ul li span{
     color: rgb(161, 82, 26);
     font-size: 14px;
